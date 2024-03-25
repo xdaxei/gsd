@@ -2,8 +2,8 @@
 
 phoneNumLimit=10
 phoneStep=1000
-phoneLeft=17
-phoneCenter=0
+phoneLeft=15
+phoneCenter=9
 phoneOrder="asc"
 waitMin=1.1
 waitMax=3.9
